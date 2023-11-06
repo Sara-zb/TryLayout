@@ -1,0 +1,33 @@
+AI: 1. @ Card : Project x0020_or x0020_Dept x002 : textbox
+2. Project or Dept Name: Text : textbox
+3. Initiator : label
+4. Find items : button
+5. CAR Source : label
+6. Internal QMS Audit : dropdown option
+7. V : dropdown
+8. Process Owner : label
+9. Find items : button
+10. V : dropdown
+11. Associated Services : label
+12. Construction Supervision : dropdown option
+13. V : dropdown
+14. Issued Date : label
+15. 12/31/2001 : textbox
+16. V : dropdown
+17. PROBLEM OR OPPORTUNITY DE … : label
+18. Problem Description Agreed : textbox
+19. Further comments : label
+20. Process or Aspects : label
+21. Quality commitment : checkbox
+22. y : checkbox option
+23. Immediate Actions Taken : label
+24. Corrective and Preventive Actions : label
+25. Severity : label
+26. Major NC : radio button
+27. V : radio button option
+28. Root Cause Category : label
+29. Find items : button
+30. V : dropdown
+31. Status : label
+32. PROPOSED CORRECTIVE ACTIONS : label
+33. V : dropdown
